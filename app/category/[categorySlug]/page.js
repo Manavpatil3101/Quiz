@@ -1,5 +1,5 @@
 import fs from "fs/promises";
-import QuizClient from "@/app/Components/Quiz/Quiz";
+import QuizClient from "@/app/Components/Quiz/quiz";
 
 const CategorySlugPage = async ({ params }) => {
   const { categorySlug } = params;
