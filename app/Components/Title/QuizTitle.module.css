@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@600;700&display=swap');
+
+.quiztitle{
+    margin-bottom: 40px;
+    letter-spacing: 3px;
+    background-color: #fcd12a;
+    position: relative;
+    padding: 20px 30px;
+    margin-left: -50px;
+    width: 550px;
+    font-family: "Exo", sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    color: white;
+    text-transform: uppercase;
+    text-align: right;
+    transform: skew(-15deg);
+    animation-name: quiz_title;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+}
+
+.quiztitle::before{
+    content: '';
+    background-color: #fcd12a;
+    position: absolute;
+    right: -20px;
+    top: 0;
+    width: 10px;
+    height: 100%;
+}
+
+.quiztitle::after{
+    content: '';
+    background-color: #fcd12a;
+    position: absolute;
+    right: -36px;
+    top: 0;
+    width: 7px;
+    height: 100%;
+}
+
+@keyframes quiz_title {
+    0% {
+        opacity: 0;
+        transform: translateX(-400px);
+    }
+    50% {
+        opacity: .3;
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@media (max-width: 576px){
+    .quiztitle{
+        width: 330px;
+    }
+}

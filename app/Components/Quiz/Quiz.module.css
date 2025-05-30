@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100..900;1,100..900&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+.main_head{
+    display: flex !important;
+    justify-content: space-between;
+}
+
+.main_head h2{
+    margin-bottom: 40px;
+    display: flex !important;
+    align-items: center;
+    font-size: 30px;
+    font-weight: 600;
+    display: grid;
+}
+
+.questions{
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 40px;
+    color: gray;
+}
+

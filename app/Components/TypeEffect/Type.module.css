@@ -1,0 +1,27 @@
+/* components/Type.module.css */
+
+.typingContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 150px;
+  font-size: 1.6rem;
+  font-weight: 600;
+  text-align: center;
+  color: #333;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  position: relative;
+}
+
+.blinkingCursor {
+  font-weight: bold;
+  animation: blink 1s step-start infinite;
+  margin-left: 5px;
+  color: #555;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
+}

@@ -1,0 +1,2063 @@
+[
+  {
+    "id": 1,
+    "question": "What does HTML stand for?",
+    "array": ["Hyper Text Markup Language", "Home Tool Management Language", "Hyperlinks Text Markup Language", "High Text Marking Language"],
+    "answer": "Hyper Text Markup Language",
+    "difficulty": "easy",
+    "category": "HTML"
+  },
+  {
+    "id": 2,
+    "question": "Which tag is used to define an unordered list?",
+    "array": ["<ul>", "<ol>", "<li>", "<dl>"],
+    "answer": "<ul>",
+    "difficulty": "easy",
+    "category": "HTML"
+  },
+  {
+    "id": 3,
+    "question": "What is the correct HTML tag for inserting a line break?",
+    "array": ["<br>", "<lb>", "<break>", "</br>"],
+    "answer": "<br>",
+    "difficulty": "easy",
+    "category": "HTML"
+  },
+  {
+    "id": 4,
+    "question": "Which tag is used to make a text bold?",
+    "array": ["<b>", "<strong>", "<bold>", "<fat>"],
+    "answer": "<strong>",
+    "difficulty": "easy",
+    "category": "HTML"
+  },
+  {
+    "id": 5,
+    "question": "Which attribute is used to define inline styles?",
+    "array": ["style", "class", "id", "inline"],
+    "answer": "style",
+    "difficulty": "easy",
+    "category": "HTML"
+  },
+  {
+    "id": 6,
+    "question": "What is the correct HTML for creating a hyperlink?",
+    "array": ["<a href='url'>text</a>", "<link href='url'>text</link>", "<url>text</url>", "<a url='url'>text</a>"],
+    "answer": "<a href='url'>text</a>",
+    "difficulty": "easy",
+    "category": "HTML"
+  },
+  {
+    "id": 7,
+    "question": "Which tag is used to display an image in HTML?",
+    "array": ["<img>", "<picture>", "<src>", "<image>"],
+    "answer": "<img>",
+    "difficulty": "easy",
+    "category": "HTML"
+  },
+  {
+    "id": 8,
+    "question": "What does the <head> element contain?",
+    "array": ["Main content of the document", "Metadata about the document", "Navigation links", "Footer of the document"],
+    "answer": "Metadata about the document",
+    "difficulty": "easy",
+    "category": "HTML"
+  },
+  {
+    "id": 9,
+    "question": "Which tag is used to define a table?",
+    "array": ["<table>", "<tab>", "<grid>", "<tbl>"],
+    "answer": "<table>",
+    "difficulty": "easy",
+    "category": "HTML"
+  },
+  {
+    "id": 10,
+    "question": "What is the purpose of the <body> tag?",
+    "array": ["Defines the document's header", "Defines the document's body", "Defines the document's title", "Defines the document's footer"],
+    "answer": "Defines the document's body",
+    "difficulty": "easy",
+    "category": "HTML"
+  },
+  {
+      "id": 11,
+      "question": "Which HTML5 element is used to specify a footer for a document or section?",
+      "array": ["<footer>", "<bottom>", "<foot>", "<section-footer>"],
+      "answer": "<footer>",
+      "difficulty": "medium",
+      "category": "HTML"
+  },
+  {
+      "id": 12,
+      "question": "Which HTML5 element is used to embed video content?",
+      "array": ["<video>", "<media>", "<movie>", "<embed-video>"],
+      "answer": "<video>",
+      "difficulty": "medium",
+      "category": "HTML"
+  },
+  {
+      "id": 13,
+      "question": "What is the purpose of the <canvas> element in HTML5?",
+      "array": ["To display images", "To draw graphics", "To embed videos", "To create layouts"],
+      "answer": "To draw graphics",
+      "difficulty": "medium",
+      "category": "HTML"
+  },
+  {
+      "id": 14,
+      "question": "Which input type defines a range slider?",
+      "array": ["range", "slider", "track", "level"],
+      "answer": "range",
+      "difficulty": "medium",
+      "category": "HTML"
+  },
+  {
+      "id": 15,
+      "question": "What does the 'async' attribute do in the <script> tag?",
+      "array": ["Executes the script immediately", "Defers script execution until the page is fully parsed", "Executes the script asynchronously", "Prevents the script from executing"],
+      "answer": "Executes the script asynchronously",
+      "difficulty": "medium",
+      "category": "HTML"
+  },
+  {
+      "id": 16,
+      "question": "Which HTML5 element is used to group related form elements?",
+      "array": ["<group>", "<formgroup>", "<fieldset>", "<form-group>"],
+      "answer": "<fieldset>",
+      "difficulty": "medium",
+      "category": "HTML"
+  },
+  {
+      "id": 17,
+      "question": "What is the purpose of the <datalist> tag?",
+      "array": ["Defines a list of data", "Creates a data table", "Specifies a list of pre-defined options for an <input> element", "Displays data in a list format"],
+      "answer": "Specifies a list of pre-defined options for an <input> element",
+      "difficulty": "medium",
+      "category": "HTML"
+  },
+  {
+      "id": 18,
+      "question": "Which HTML5 API is used for drag and drop operations?",
+      "array": ["DragDrop API", "DND API", "Drag and Drop API", "HTML5 Drag and Drop API"],
+      "answer": "HTML5 Drag and Drop API",
+      "difficulty": "medium",
+      "category": "HTML"
+  },
+  {
+      "id": 19,
+      "question": "What is the purpose of the <meter> element?",
+      "array": ["Displays measurement data", "Creates a meter control", "Defines a scalar measurement within a range", "Shows progress of a task"],
+      "answer": "Defines a scalar measurement within a range",
+      "difficulty": "medium",
+      "category": "HTML"
+  },
+  {
+      "id": 20,
+      "question": "Which attribute is used to specify the character encoding for the HTML document?",
+      "array": ["charset", "encoding", "character-set", "content-encoding"],
+      "answer": "charset",
+      "difficulty": "medium",
+      "category": "HTML"
+  },
+  {
+    "id": 21,
+    "question": "What is the purpose of the 'viewport' meta tag?",
+    "array": [
+      "Defines the visual layout of the page",
+      "Controls the browser's zoom and dimensions on different devices",
+      "Specifies the character encoding",
+      "Sets the page title"
+    ],
+    "answer": "Controls the browser's zoom and dimensions on different devices",
+    "difficulty": "hard",
+    "category": "HTML"
+  },
+  {
+    "id": 22,
+    "question": "Which HTML5 feature allows web applications to store data locally within the user's browser?",
+    "array": [
+      "Cookies",
+      "Session Storage",
+      "Local Storage",
+      "Web SQL Database"
+    ],
+    "answer": "Local Storage",
+    "difficulty": "hard",
+    "category": "HTML"
+  },
+  {
+    "id": 23,
+    "question": "What is the purpose of the 'applicationCache' API in HTML5?",
+    "array": [
+      "To cache application data on the server",
+      "To enable offline access to web applications",
+      "To store user preferences",
+      "To manage application sessions"
+    ],
+    "answer": "To enable offline access to web applications",
+    "difficulty": "hard",
+    "category": "HTML"
+  },
+  {
+    "id": 24,
+    "question": "Which HTML5 element is used to define different media resources for media elements like <video> and <audio>?",
+    "array": [
+      "<source>",
+      "<media-source>",
+      "<resource>",
+      "<src>"
+    ],
+    "answer": "<source>",
+    "difficulty": "hard",
+    "category": "HTML"
+  },
+  {
+    "id": 25,
+    "question": "What is the purpose of the 'ping' attribute in an <a> tag?",
+    "array": [
+      "To measure the loading time of the linked resource",
+      "To send a notification to a specified URL when the link is clicked",
+      "To test the connection to the linked resource",
+      "To preload the linked resource"
+    ],
+    "answer": "To send a notification to a specified URL when the link is clicked",
+    "difficulty": "hard",
+    "category": "HTML"
+  },
+  {
+    "id": 26,
+    "question": "Which method is used to get the value of an attribute of an HTML element in JavaScript?",
+    "array": ["getAttribute()", "getAttrValue()", "attrValue()", "attributeValue()"],
+    "answer": "getAttribute()",
+    "difficulty": "medium",
+    "category": "HTML"
+  },
+  {
+      "id": 27,
+      "question": "What is the purpose of the 'defer' attribute in the <script> tag?",
+      "array": ["Executes the script immediately.", "Defers script execution until the page is fully parsed.", "Executes the script asynchronously with other scripts.", "Prevents the script from executing."],
+      "answer": "Defers script execution until the page is fully parsed.",
+      "difficulty": "medium",
+      "category": "HTML"
+  },
+  {
+      "id": 28,
+      "question": "Which HTML5 element is used to represent a generic section of a document or application?",
+      "array": ["<div>", "<section>", "<article>", "<group>"],
+      "answer": "<section>",
+      "difficulty": "medium",
+      "category": "HTML"
+  },
+  {
+      "id": 29,
+      "question": "What is the purpose of the 'hidden' attribute in HTML?",
+      "array": ["Hides the element from the user.", "Prevents the element from being deleted.", "Marks the element as deprecated.", "Specifies that the element is not yet relevant."],
+      "answer": "Hides the element from the user.",
+      "difficulty": "medium",
+      "category": "HTML"
+  },
+  {
+      "id": 30,
+      "question": "Which HTML5 element is used to define a dialog box or window?",
+      "array": ["<dialog>", "<window>", "<modal>", "<popup>"],
+      "answer": "<dialog>",
+      "difficulty": "medium",
+      "category": "HTML"
+  },
+    {
+    "id": 31,
+    "question": "What does CSS stand for?",
+    "array": ["Cascading Style Sheets", "Creative Style Sheets", "Computer Style Sheets", "Colorful Style Sheets"],
+    "answer": "Cascading Style Sheets",
+    "difficulty": "easy",
+    "category": "CSS"
+  },
+  {
+    "id": 32,
+    "question": "Which HTML attribute is used to define inline styles?",
+    "array": ["style", "class", "id", "css"],
+    "answer": "style",
+    "difficulty": "easy",
+    "category": "CSS"
+  },
+  {
+    "id": 33,
+    "question": "Which CSS property is used to change the text color of an element?",
+    "array": ["color", "text-color", "font-color", "text-style"],
+    "answer": "color",
+    "difficulty": "easy",
+    "category": "CSS"
+  },
+  {
+    "id": 34,
+    "question": "Which CSS property is used to set the background color of an element?",
+    "array": ["background-color", "color-background", "bg-color", "background"],
+    "answer": "background-color",
+    "difficulty": "easy",
+    "category": "CSS"
+  },
+  {
+    "id": 35,
+    "question": "Which CSS property controls the text size?",
+    "array": ["font-size", "text-size", "size", "font"],
+    "answer": "font-size",
+    "difficulty": "easy",
+    "category": "CSS"
+  },
+  {
+    "id": 36,
+    "question": "What is the default value of the position property?",
+    "array": ["static", "relative", "fixed", "absolute"],
+    "answer": "static",
+    "difficulty": "easy",
+    "category": "CSS"
+  },
+  {
+    "id": 37,
+    "question": "Which CSS property is used to make the text bold?",
+    "array": ["font-weight", "text-weight", "bold", "font-style"],
+    "answer": "font-weight",
+    "difficulty": "easy",
+    "category": "CSS"
+  },
+  {
+    "id": 38,
+    "question": "Which CSS selector is used to target all elements on a page?",
+    "array": ["*", "all", ".", "#"],
+    "answer": "*",
+    "difficulty": "easy",
+    "category": "CSS"
+  },
+  {
+    "id": 39,
+    "question": "Which property is used to add space between letters?",
+    "array": ["letter-spacing", "word-spacing", "text-spacing", "char-spacing"],
+    "answer": "letter-spacing",
+    "difficulty": "easy",
+    "category": "CSS"
+  },
+  {
+    "id": 40,
+    "question": "How do you insert a comment in a CSS file?",
+    "array": ["/* this is a comment */", "// this is a comment", "' this is a comment","comment"],
+    "answer": "/* this is a comment */",
+    "difficulty": "easy",
+    "category": "CSS"
+  },
+  {
+    "id": 41,
+    "question": "Which CSS property is used to specify the font of an element?",
+    "array": ["font-family", "text-font", "font-type", "family-font"],
+    "answer": "font-family",
+    "difficulty": "medium",
+    "category": "CSS"
+  },
+  {
+    "id": 42,
+    "question": "Which CSS property is used to control the spacing between lines of text?",
+    "array": ["line-height", "text-spacing", "line-spacing", "font-spacing"],
+    "answer": "line-height",
+    "difficulty": "medium",
+    "category": "CSS"
+  },
+  {
+    "id": 43,
+    "question": "Which CSS property is used to add a shadow to text?",
+    "array": ["text-shadow", "shadow-text", "font-shadow", "text-effect"],
+    "answer": "text-shadow",
+    "difficulty": "medium",
+    "category": "CSS"
+  },
+  {
+    "id": 44,
+    "question": "Which CSS property is used to control the order of positioned elements?",
+    "array": ["z-index", "order", "position", "index"],
+    "answer": "z-index",
+    "difficulty": "medium",
+    "category": "CSS"
+  },
+  {
+    "id": 45,
+    "question": "Which CSS property is used to make an element transparent?",
+    "array": ["opacity", "transparency", "visibility", "alpha"],
+    "answer": "opacity",
+    "difficulty": "medium",
+    "category": "CSS"
+  },
+  {
+    "id": 46,
+    "question": "Which CSS property is used to add rounded corners to an element?",
+    "array": ["border-radius", "border-corner", "corner-radius", "radius"],
+    "answer": "border-radius",
+    "difficulty": "medium",
+    "category": "CSS"
+  },
+  {
+    "id": 47,
+    "question": "Which CSS property is used to float an element to the left or right?",
+    "array": ["float", "align", "position", "flow"],
+    "answer": "float",
+    "difficulty": "medium",
+    "category": "CSS"
+  },
+  {
+    "id": 48,
+    "question": "Which CSS property is used to specify the type of box used for an element?",
+    "array": ["display", "box-type", "type", "box-model"],
+    "answer": "display",
+    "difficulty": "medium",
+    "category": "CSS"
+  },
+  {
+    "id": 49,
+    "question": "Which CSS property is used to add an outline around an element?",
+    "array": ["outline", "border", "frame", "edge"],
+    "answer": "outline",
+    "difficulty": "medium",
+    "category": "CSS"
+  },
+  {
+    "id": 50,
+    "question": "Which CSS property is used to control the spacing between words?",
+    "array": ["word-spacing", "letter-spacing", "text-spacing", "space-width"],
+    "answer": "word-spacing",
+    "difficulty": "medium",
+    "category": "CSS"
+  },
+  {
+    "id": 51,
+    "question": "What is the purpose of the CSS @media rule?",
+    "array": [
+      "To import external CSS files",
+      "To apply styles based on device characteristics",
+      "To define global styles for the entire document",
+      "To create animations"
+    ],
+    "answer": "To apply styles based on device characteristics",
+    "difficulty": "hard",
+    "category": "CSS"
+  },
+  {
+    "id": 52,
+    "question": "Which CSS property is used to create a flexible box layout?",
+    "array": ["flex", "grid", "box", "layout"],
+    "answer": "flex",
+    "difficulty": "hard",
+    "category": "CSS"
+  },
+  {
+    "id": 53,
+    "question": "Which CSS property is used to define a grid layout?",
+    "array": ["grid", "flex", "table", "layout"],
+    "answer": "grid",
+    "difficulty": "hard",
+    "category": "CSS"
+  },
+  {
+    "id": 54,
+    "question": "What does the 'box-sizing: border-box;' property do?",
+    "array": [
+      "Includes padding and border in the element's total width and height",
+      "Excludes padding and border from the element's total width and height",
+      "Only includes the border in the element's total width and height",
+      "Only includes the padding in the element's total width and height"
+    ],
+    "answer": "Includes padding and border in the element's total width and height",
+    "difficulty": "hard",
+    "category": "CSS"
+  },
+  {
+    "id": 55,
+    "question": "Which CSS property is used to create a multi-column layout?",
+    "array": [
+      "columns",
+      "multi-column",
+      "column-layout",
+      "text-columns"
+    ],
+    "answer": "columns",
+    "difficulty": "hard",
+    "category": "CSS"
+  },
+  {
+    "id": 56,
+    "question": "Which CSS property is used to transform the size, position, rotation, and skew of elements?",
+    "array": ["transform", "transition", "animation", "translate"],
+    "answer": "transform",
+    "difficulty": "hard",
+    "category": "CSS"
+  },
+  {
+    "id": 57,
+    "question": "What is the purpose of the CSS 'clip-path' property?",
+    "array": [
+      "To clip an element to a specific shape",
+      "To create a clipping mask for an image",
+      "To define the path of an animation",
+      "To hide overflowing content"
+    ],
+    "answer": "To clip an element to a specific shape",
+    "difficulty": "hard",
+    "category": "CSS"
+  },
+  {
+    "id": 58,
+    "question": "Which CSS function is used to define a linear gradient?",
+    "array": [
+      "linear-gradient()",
+      "gradient()",
+      "linear()",
+      "gradient-linear()"
+    ],
+    "answer": "linear-gradient()",
+    "difficulty": "hard",
+    "category": "CSS"
+  },
+  {
+    "id": 59,
+    "question": "Which CSS property is used to control the smoothness of the transition effect?",
+    "array": [
+      "transition-timing-function",
+      "transition-ease",
+      "transition-speed",
+      "transition-function"
+    ],
+    "answer": "transition-timing-function",
+    "difficulty": "hard",
+    "category": "CSS"
+  },
+  {
+    "id": 60,
+    "question": "In CSS, what does the 'rem' unit refer to?",
+    "array": [
+      "Root element's font size",
+      "Relative element's font size",
+      "Remaining space",
+      "Relative to viewport width"
+    ],
+    "answer": "Root element's font size",
+    "difficulty": "hard",
+    "category": "CSS"
+  },
+  {
+    "id": 61,
+    "question": "What is JavaScript?",
+    "array": ["A styling language", "A markup language", "A programming language", "A database language"],
+    "answer": "A programming language",
+    "difficulty": "easy",
+    "category": "JS"
+  },
+  {
+    "id": 62,
+    "question": "Which keyword is used to declare a variable in JavaScript?",
+    "array": ["var", "let", "const", "all of the above"],
+    "answer": "all of the above",
+    "difficulty": "easy",
+    "category": "JS"
+  },
+  {
+    "id": 63,
+    "question": "Which function is used to display output in JavaScript?",
+    "array": ["console.log()", "print()", "display()", "alert()"],
+    "answer": "console.log()",
+    "difficulty": "easy",
+    "category": "JS"
+  },
+  {
+    "id": 64,
+    "question": "What is the result of `3 + 2 + '7'` in JavaScript?",
+    "array": ["12", "57", "327", "Error"],
+    "answer": "57",
+    "difficulty": "easy",
+    "category": "JS"
+  },
+  {
+    "id": 65,
+    "question": "Which operator is used for strict equality comparison in JavaScript?",
+    "array": ["==", "===", "!=", "!=="],
+    "answer": "===",
+    "difficulty": "easy",
+    "category": "JS"
+  },
+  {
+    "id": 66,
+    "question": "What will `typeof null` return in JavaScript?",
+    "array": ["null", "object", "undefined", "number"],
+    "answer": "object",
+    "difficulty": "easy",
+    "category": "JS"
+  },
+  {
+    "id": 67,
+    "question": "Which method is used to add an element to the end of an array?",
+    "array": ["push()", "append()", "add()", "insert()"],
+    "answer": "push()",
+    "difficulty": "easy",
+    "category": "JS"
+  },
+  {
+    "id": 68,
+    "question": "Which method is used to remove the last element from an array?",
+    "array": ["pop()", "remove()", "delete()", "last()"],
+    "answer": "pop()",
+    "difficulty": "easy",
+    "category": "JS"
+  },
+  {
+    "id": 69,
+    "question": "What is a closure in JavaScript?",
+    "array": ["A way to close a function", "A function inside another function", "A function along with its lexical environment", "A method to define objects"],
+    "answer": "A function along with its lexical environment",
+    "difficulty": "easy",
+    "category": "JS"
+  },
+  {
+    "id": 70,
+    "question": "What is the `this` keyword in JavaScript?",
+    "array": ["Refers to the current function", "Refersto the global object", "Refers to the object the function is a method of", "Refers to the previous variable"],
+    "answer": "Refers to the object the function is a method of",
+    "difficulty": "easy",
+    "category": "JS"
+  },
+  {
+    "id": 71,
+    "question": "What is an event listener in JavaScript?",
+    "array": ["A function that listens to events", "A type of event", "A way to trigger events", "A global variable"],
+    "answer": "A function that listens to events",
+    "difficulty": "medium",
+    "category": "JS"
+  },
+  {
+    "id": 72,
+    "question": "What is the difference between `==` and `===` in JavaScript?",
+    "array": ["No difference", "`==` checks only value, `===` checks value and type", "`===` checks only value, `==` checks value and type", "`==` is faster than `==="],
+    "answer": "`==` checks only value, `===` checks value and type",
+    "difficulty": "medium",
+    "category": "JS"
+  },
+  {
+    "id": 73,
+    "question": "What is the output of `parseInt('10', 2)`?",
+    "array": ["10", "2", "3", "Error"],
+    "answer": "2",
+    "difficulty": "medium",
+    "category": "JS"
+  },
+  {
+    "id": 74,
+    "question": "Which method is used to schedule a function to be called after a certain number of milliseconds?",
+    "array": ["setTimeout()", "setInterval()", "delay()", "wait()"],
+    "answer": "setTimeout()",
+    "difficulty": "medium",
+    "category": "JS"
+  },
+  {
+    "id": 75,
+    "question": "What is the purpose of the `map()` function in JavaScript?",
+    "array": ["To iterate over an array", "To modify an array", "To create a new array with the results of calling a function on every element", "To filter an array"],
+    "answer": "To create a new array with the results of calling a function on every element",
+    "difficulty": "medium",
+    "category": "JS"
+  },
+  {
+    "id": 76,
+    "question": "What is the output of `[1, 2, 3] + [4, 5, 6]`?",
+    "array": ["[1, 2, 3, 4, 5, 6]", "[5, 7, 9]", "12", "1,2,34,5,6"],
+    "answer": "1,2,34,5,6",
+    "difficulty": "medium",
+    "category": "JS"
+  },
+  {
+    "id": 77,
+    "question": "What is the difference between `null` and `undefined` in JavaScript?",
+    "array": ["No difference", "`null` is a value, `undefined` is a type", "`undefined` is a value, `null` is a type", "`null` is explicitly assigned, `undefined` is the default value of a variable"],
+    "answer": "`null` is explicitly assigned, `undefined` is the default value of a variable",
+    "difficulty": "medium",
+    "category": "JS"
+  },
+  {
+    "id": 78,
+    "question": "What is event bubbling in JavaScript?",
+    "array": ["When an event is triggered on multiple elements", "When an event is triggered on a parent element", "When an event is triggered on a child element and then propagates to its parent elements", "When an event is handled asynchronously"],
+    "answer": "When an event is triggered on a child element and then propagates to its parent elements",
+    "difficulty": "medium",
+    "category": "JS"
+  },
+  {
+    "id": 79,
+    "question": "What is the purpose of the `bind()` method in JavaScript?",
+    "array": ["To bind two variables together", "To execute a function immediately", "To create a new function with the `this` keyword set to a specific value", "To prevent a function from being called"],
+    "answer": "To create a new function with the `this` keyword set to a specific value",
+    "difficulty": "medium",
+    "category": "JS"
+  },
+  {
+    "id": 80,
+    "question": "What is the difference between `call()` and `apply()`?",
+    "array": ["No difference", "They have different purposes", "They take arguments differently", "One is for objects, the other is for arrays"],
+    "answer": "They take arguments differently",
+    "difficulty": "medium",
+    "category": "JS"
+  },
+  {
+    "id": 81,
+    "question": "What is the output of `(function(){ return typeof arguments; })();`",
+    "array": ["object", "array", "arguments", "undefined"],
+    "answer": "object",
+    "difficulty": "hard",
+    "category": "JS"
+  },
+  {
+    "id": 82,
+    "question": "What is the purpose of the `Object.create()` method?",
+    "array": [
+      "To create a new object",
+      "To create a new object with the specified prototype object and properties",
+      "To clone an existing object",
+      "To extend an existing object"
+    ],
+    "answer": "To create a new object with the specified prototype object and properties",
+    "difficulty": "hard",
+    "category": "JS"
+  },
+  {
+    "id": 83,
+    "question": "What is the difference between synchronous and asynchronous JavaScript?",
+    "array": [
+      "No difference",
+      "Synchronous is faster than asynchronous",
+      "Synchronous code executes in order, asynchronous code can execute out of order",
+      "Asynchronous code executes in order, synchronous code can execute out of order"
+    ],
+    "answer": "Synchronous code executes in order, asynchronous code can execute out of order",
+    "difficulty": "hard",
+    "category": "JS"
+  },
+  {
+    "id": 84,
+    "question": "What is the event loop in JavaScript?",
+    "array": [
+      "A loop that listens to events",
+      "A mechanism that handles asynchronous operations",
+      "A loop that executes code repeatedly",
+      "A way to manage event listeners"
+    ],
+    "answer": "A mechanism that handles asynchronous operations",
+    "difficulty": "hard",
+    "category": "JS"
+  },
+  {
+    "id": 85,
+    "question": "What is a Promise in JavaScript?",
+    "array": [
+      "A value that will be available in the future",
+      "An object that represents the eventual completion or failure of an asynchronous operation",
+      "A way to store asynchronous data",
+      "A function that returns a value asynchronously"
+    ],
+    "answer": "An object that represents the eventual completion or failure of an asynchronous operation",
+    "difficulty": "hard",
+    "category": "JS"
+  },
+  {
+    "id": 86,
+    "question": "What is the purpose of the `async` and `await` keywords?",
+    "array": [
+      "To define asynchronous functions and handle Promises",
+      "To create asynchronous loops",
+      "To declare asynchronous variables",
+      "To handle errors in asynchronous code"
+    ],
+    "answer": "To define asynchronous functions and handle Promises",
+    "difficulty": "hard",
+    "category": "JS"
+  },
+  {
+    "id": 87,
+    "question": "What is the difference between `map()` and `forEach()`?",
+    "array": [
+      "No difference",
+      "`map()` returns a new array, `forEach()` does not",
+      "`forEach()` returns a new array, `map()` does not",
+      "`map()` is faster than `forEach()`"
+    ],
+    "answer": "`map()` returns a new array, `forEach()` does not",
+    "difficulty": "hard",
+    "category": "JS"
+  },
+  {
+    "id": 88,
+    "question": "What is the prototype chain in JavaScript?",
+    "array": [
+      "A chain of functions",
+      "A chain of variables",
+      "A mechanism of inheritance in JavaScript",
+      "A way to define objects"
+    ],
+    "answer": "A mechanism of inheritance in JavaScript",
+    "difficulty": "hard",
+    "category": "JS"
+  },
+  {
+    "id": 89,
+    "question": "What is the purpose of the `reduce()` method in JavaScript?",
+    "array": [
+      "To reduce the size of an array",
+      "To filter an array",
+      "To apply a function against an accumulator and each element in the array (from left to right) to reduce it to a single value",
+      "To sort an array"
+    ],
+    "answer": "To apply a function against an accumulator and each element in the array (from left to right) to reduce it to a single value",
+    "difficulty": "hard",
+    "category": "JS"
+  },
+  {
+    "id": 90,
+    "question": "What are template literals in JavaScript?",
+    "array": [
+      "A new way to define objects",
+      "A way to create HTML templates",
+      "String literals allowing embedded expressions",
+      "A type of variable"
+    ],
+    "answer": "String literals allowing embedded expressions",
+    "difficulty": "hard",
+    "category": "JS"
+  },
+  {
+    "id": 91,
+    "question": "What is React?",
+    "array": ["A database", "A programming language", "A JavaScript library for building user interfaces", "A CSS framework"],
+    "answer": "A JavaScript library for building user interfaces",
+    "difficulty": "easy",
+    "category": "React"
+  },
+  {
+    "id": 92,
+    "question": "What is JSX?",
+    "array": ["A JavaScript framework", "A special syntax for writing HTML in JavaScript", "A way to style React components", "A database query language"],
+    "answer": "A special syntax for writing HTML in JavaScript",
+    "difficulty": "easy",
+    "category": "React"
+  },
+  {
+    "id": 93,
+    "question": "What is a component in React?",
+    "array": ["A function", "A class", "A reusable building block for UI", "A database table"],
+    "answer": "A reusable building block for UI",
+    "difficulty": "easy",
+    "category": "React"
+  },
+  {
+    "id": 94,
+    "question": "What is the purpose of the `render()` method in a React component?",
+    "array": ["To style the component", "To define the component's behavior", "To update the component's state", "To return the JSX that should be displayed"],
+    "answer": "To return the JSX that should be displayed",
+    "difficulty": "easy",
+    "category": "React"
+  },
+  {
+    "id": 95,
+    "question": "What is state in React?",
+    "array": ["A CSS style", "A JavaScript variable", "An object that stores component's data", "A database"],
+    "answer": "An object that stores component's data",
+    "difficulty": "easy",
+    "category": "React"
+  },
+  {
+    "id": 96,
+    "question": "What is props in React?",
+    "array": ["A way to style components", "A way to pass data from a parent to a child component", "A way to manage component state", "A type of event"],
+    "answer": "A way to pass data from a parent to a child component",
+    "difficulty": "easy",
+    "category": "React"
+  },
+  {
+    "id": 97,
+    "question": "What is the virtual DOM?",
+    "array": ["A virtual reality device", "A lightweight copy of the actual DOM", "A type of database", "A JavaScript engine"],
+    "answer": "A lightweight copy of the actual DOM",
+    "difficulty": "easy",
+    "category": "React"
+  },
+  {
+    "id": 98,
+    "question": "Which hook is used for performing side effects in React?",
+    "array": ["useEffect()", "useState()", "useContext()", "useReducer()"],
+    "answer": "useEffect()",
+    "difficulty": "easy",
+    "category": "React"
+  },
+  {
+    "id": 99,
+    "question": "Which hook is used to manage state in functional components?",
+    "array": ["useState()", "useEffect()", "useContext()", "useReducer()"],
+    "answer": "useState()",
+    "difficulty": "easy",
+    "category": "React"
+  },
+  {
+    "id": 100,
+    "question": "What is the purpose of `setState()`?",
+    "array": ["To set the initial state", "To update the state and re-render the component", "To access the state", "To delete the state"],
+    "answer": "To update the state and re-render the component",
+    "difficulty": "easy",
+    "category": "React"
+  },
+  {
+    "id": 101,
+    "question": "What is the significance of the `key` prop in React lists?",
+    "array": ["It is used for styling", "It is used to identify components for efficient updating", "It is used to pass data to components", "It is used for event handling"],
+    "answer": "It is used to identify components for efficient updating",
+    "difficulty": "medium",
+    "category": "React"
+  },
+  {
+    "id": 102,
+    "question": "What is a controlled component in React?",
+    "array": ["A component whose state is controlled by the DOM", "A component that controls other components", "A component whose state is controlled by React", "A component with uncontrolled behavior"],
+    "answer": "A component whose state is controlled by React",
+    "difficulty": "medium",
+    "category": "React"
+  },
+  {
+    "id": 103,
+    "question": "What is an uncontrolled component in React?",
+    "array": ["A component whose state is controlled by React", "A component that doesn't have any state", "A component whose state is handled by the DOM", "A component with controlled behavior"],
+    "answer": "A component whose state is handled by the DOM",
+    "difficulty": "medium",
+    "category": "React"
+  },
+  {
+    "id": 104,
+    "question": "What is the purpose of `useEffect()` hook?",
+    "array": ["To manage state", "To perform side effects in functional components", "To define component styles", "To render components"],
+    "answer": "To perform side effects in functional components",
+    "difficulty": "medium",
+    "category": "React"
+  },
+  {
+    "id": 105,
+    "question": "What is React Router?",
+    "array": ["A state management library", "A library for handling routing in React applications", "A component styling library", "A form validation library"],
+    "answer": "A library for handling routing in React applications",
+    "difficulty": "medium",
+    "category": "React"
+  },
+  {
+    "id": 106,
+    "question": "What is Redux?",
+    "array": ["A database", "A state management library", "A component library", "A testing framework"],
+    "answer": "A state management library",
+    "difficulty": "medium",
+    "category": "React"
+  },
+  {
+    "id": 107,
+    "question": "What are Higher Order Components (HOCs)?",
+    "array": ["Components that render other components", "Functions that take a component and return a new component with enhanced capabilities", "Components that are used to style other components", "Components that manage the application's state"],
+    "answer": "Functions that take a component and return a new component with enhanced capabilities",
+    "difficulty": "medium",
+    "category": "React"
+  },
+  {
+    "id": 108,
+    "question": "What are React Hooks?",
+    "array": ["Functions that connect to a database", "Functions that allow you to use state and other React features in functional components", "Functions that are used to style components", "Functions that handle events in React"],
+    "answer": "Functions that allow you to use state and other React features in functional components",
+    "difficulty": "medium",
+    "category": "React"
+  },
+  {
+    "id": 109,
+    "question": "What is the purpose of `useContext()` hook?",
+    "array": ["To manage state", "To perform side effects", "To share state across components without passing props manually", "To define component styles"],
+    "answer": "To share state across components without passing props manually",
+    "difficulty": "medium",
+    "category": "React"
+  },
+  {
+    "id": 110,
+    "question": "What is the purpose of `useReducer()` hook?",
+    "array": ["To manage simple state", "To manage complex state with more logic", "To perform side effects", "To share state across components"],
+    "answer": "To manage complex state with more logic",
+    "difficulty": "medium",
+    "category": "React"
+  },
+  {
+    "id": 111,
+    "question": "What is the difference between `useEffect()` and `useLayoutEffect()`?",
+    "array": [
+      "No difference",
+      "`useEffect()` runs synchronously, `useLayoutEffect()` runs asynchronously",
+      "`useLayoutEffect()` runs synchronously, `useEffect()` runs asynchronously",
+      "`useEffect()` is used for layout effects, `useLayoutEffect()` is used for side effects"
+    ],
+    "answer": "`useLayoutEffect()` runs synchronously, `useEffect()` runs asynchronously",
+    "difficulty": "hard",
+    "category": "React"
+  },
+  {
+    "id": 112,
+    "question": "What is the purpose of `React.memo()`?",
+    "array": [
+      "To memoize state variables",
+      "To memoize function calls",
+      "To memoize components and prevent unnecessary re-renders",
+      "To memoize event handlers"
+    ],
+    "answer": "To memoize components and prevent unnecessary re-renders",
+    "difficulty": "hard",
+    "category": "React"
+  },
+  {
+    "id": 113,
+    "question": "What is the purpose of `useCallback()`?",
+    "array": [
+      "To memoize state variables",
+      "To memoize function calls and prevent unnecessary re-creations",
+      "To memoize components",
+      "To memoize event handlers"
+    ],
+    "answer": "To memoize function calls and prevent unnecessary re-creations",
+    "difficulty": "hard",
+    "category": "React"
+  },
+  {
+    "id": 114,
+    "question": "What is the purpose of `useRef()`?",
+    "array": [
+      "To manage state",
+      "To perform side effects",
+      "To create a reference that persists across renders",
+      "To access the DOM directly"
+    ],
+    "answer": "To create a reference that persists across renders",
+    "difficulty": "hard",
+    "category": "React"
+  },
+  {
+    "id": 115,
+    "question": "What is the purpose of the `children` prop?",
+    "array": [
+      "To pass data to a component",
+      "To style a component",
+      "To render a list of components",
+      "To render content inside a component"
+    ],
+    "answer": "To render content inside a component",
+    "difficulty": "hard",
+    "category": "React"
+  },
+  {
+    "id": 116,
+    "question": "What is the purpose of the `dangerouslySetInnerHTML` prop?",
+    "array": [
+      "To set HTML content of an element",
+      "To prevent XSS attacks",
+      "To create dynamic HTML elements",
+      "To set the inner text of an element"
+    ],
+    "answer": "To set HTML content of an element",
+    "difficulty": "hard",
+    "category": "React"
+  },
+  {
+    "id": 117,
+    "question": "What is Server-Side Rendering (SSR)?",
+    "array": [
+      "Rendering components on the client-side",
+      "Rendering components on the server and sending HTML to the client",
+      "Rendering components in a separate thread",
+      "Rendering components using a dedicated server"
+    ],
+    "answer": "Rendering components on the server and sending HTML to the client",
+    "difficulty": "hard",
+    "category": "React"
+  },
+  {
+    "id": 118,
+    "question": "What is Code Splitting?",
+    "array": [
+      "Splitting code into multiple files",
+      "Splitting code into modules",
+      "Splitting code into smaller chunks and loading them on demand",
+      "Splitting code into different branches"
+    ],
+    "answer": "Splitting code into smaller chunks and loading them on demand",
+    "difficulty": "hard",
+    "category": "React"
+  },
+  {
+    "id": 119,
+    "question": "What is the purpose of the `shouldComponentUpdate()` method?",
+    "array": [
+      "To update the component",
+      "To decide if a component should re-render",
+      "To set the component's state",
+      "To define the component's behavior"
+    ],
+    "answer": "To decide if a component should re-render",
+    "difficulty": "hard",
+    "category": "React"
+  },
+  {
+    "id": 120,
+    "question": "What is the purpose of the `getDerivedStateFromProps()` method?",
+    "array": [
+      "To derive props from state",
+      "To derive state from props",
+      "To get the initial state",
+      "To update the component's props"
+    ],
+    "answer": "To derive state from props",
+    "difficulty": "hard",
+    "category": "React"
+  },
+  {
+      "id": 121,
+      "question": "Which HTTP method is typically used to retrieve data from a server?",
+      "array": ["POST", "GET", "PUT", "DELETE"],
+      "answer": "GET",
+      "difficulty": "easy",
+      "category": "JS"
+  },
+  {
+      "id": 122,
+      "question": "What is the purpose of the `querySelector()` method in JavaScript?",
+      "array": ["To select the first element that matches a CSS selector", "To select all elements that match a CSS selector", "To select an element by its ID", "To select an element by its class name"],
+      "answer": "To select the first element that matches a CSS selector",
+      "difficulty": "medium",
+      "category": "JS"
+  },
+  {
+      "id": 123,
+      "question": "What does the `JSON.stringify()` method do?",
+      "array": ["Parses a JSON string", "Converts a JavaScript object into a JSON string", "Formats a JSON string", "Validates a JSON string"],
+      "answer": "Converts a JavaScript object into a JSON string",
+      "difficulty": "medium",
+      "category": "JS"
+  },
+  {
+      "id": 124,
+      "question": "Which array method is used to filter elements based on a condition?",
+      "array": ["map()", "filter()", "reduce()", "forEach()"],
+      "answer": "filter()",
+      "difficulty": "medium",
+      "category": "JS"
+  },
+  {
+      "id": 125,
+      "question": "What is the output of `typeof NaN` in JavaScript?",
+      "array": ["number", "NaN", "undefined", "object"],
+      "answer": "number",
+      "difficulty": "medium",
+      "category": "JS"
+  },
+  {
+      "id": 126,
+      "question": "What is the purpose of the `preventDefault()` method in JavaScript?",
+      "array": ["To prevent the default styling of an element", "To prevent the default behavior of an event", "To prevent event propagation", "To prevent the default execution of a function"],
+      "answer": "To prevent the default behavior of an event",
+      "difficulty": "medium",
+      "category": "JS"
+  },
+  {
+      "id": 127,
+      "question": "What is the difference between `let` and `const`?",
+      "array": ["No difference", "`let` is block-scoped, `const` is function-scoped", "`const` is block-scoped, `let` is function-scoped", "`let` can be reassigned, `const` cannot"],
+      "answer": "`let` can be reassigned, `const` cannot",
+      "difficulty": "medium",
+      "category": "JS"
+  },
+  {
+      "id": 128,
+      "question": "What is the purpose of the `finally` block in a `try...catch...finally` statement?",
+      "array": ["To handle errors", "To execute code after the `try` block", "To execute code regardless of whether an exception is thrown or not", "To define the default behavior"],
+      "answer": "To execute code regardless of whether an exception is thrown or not",
+      "difficulty": "medium",
+      "category": "JS"
+  },
+    {
+    "id": 129,
+    "question": "Which CSS property is used to control the spacing between lines of text?",
+    "array": ["line-height", "text-spacing", "line-spacing", "font-spacing"],
+    "answer": "line-height",
+    "difficulty": "medium",
+    "category": "CSS"
+  },
+  {
+    "id": 130,
+    "question": "Which CSS selector is used to select all <p> elements inside a <div> element?",
+    "array": ["div p", "div > p", "div + p", "div ~ p"],
+    "answer": "div p",
+    "difficulty": "medium",
+    "category": "CSS"
+  },
+  {
+    "id": 131,
+    "question": "What is the purpose of the `!important` rule in CSS?",
+    "array": ["To add importance to a style rule", "To override all other style rules", "To make a style rule apply only to important elements", "To define important sections of a CSS file"],
+    "answer": "To override all other style rules",
+    "difficulty": "medium",
+    "category": "CSS"
+  },
+  {
+    "id": 132,
+    "question": "Which CSS property is used to set the stacking order of positioned elements?",
+    "array": ["order", "z-index", "stack-order", "position"],
+    "answer": "z-index",
+    "difficulty": "medium",
+    "category": "CSS"
+  },
+  {
+      "id": 133,
+      "question": "What is the purpose of the `useMemo` hook in React?",
+      "array": ["To memoize a component", "To memoize a value", "To memoize a function", "To memoize state"],
+      "answer": "To memoize a value",
+      "difficulty": "medium",
+      "category": "React"
+  },
+  {
+      "id": 134,
+      "question": "Which method is used for handling user input in React?",
+      "array": ["onChange", "onInput", "onType", "onValueChange"],
+      "answer": "onChange",
+      "difficulty": "easy",
+      "category": "React"
+  },
+  {
+      "id": 135,
+      "question": "In React, what is the role of the `super()` method in a class component's constructor?",
+      "array": ["To call the parent class's render method", "To initialize the component's state", "To call the parent class's constructor", "To bind event handlers"],
+      "answer": "To call the parent class's constructor",
+      "difficulty": "medium",
+      "category": "React"
+  },
+  {
+      "id": 136,
+      "question": "What is the primary purpose of a state management library like Redux in a React application?",
+      "array": ["To manage component styling", "To handle routing", "To manage the application's data flow and state", "To create reusable components"],
+      "answer": "To manage the application's data flow and state",
+      "difficulty": "medium",
+      "category": "React"
+  },
+    {
+    "id": 137,
+    "question": "Which HTML element is used to define the structure of an HTML document?",
+    "array": ["<body>", "<head>", "<html>", "<structure>"],
+    "answer": "<html>",
+    "difficulty": "easy",
+    "category": "HTML"
+  },
+  {
+    "id": 138,
+    "question": "Which HTML tag is used to define a hyperlink?",
+    "array": ["<link>", "<a>", "<url>", "<href>"],
+    "answer": "<a>",
+    "difficulty": "easy",
+    "category": "HTML"
+  },
+  {
+    "id": 139,
+    "question": "What is the purpose of the <meta> tag in HTML?",
+    "array": ["To define metadata about an HTML document", "To display metadata in the browser", "To link external CSS files", "To define the main content of the document"],
+    "answer": "To define metadata about an HTML document",
+    "difficulty": "medium",
+    "category": "HTML"
+  },
+  {
+    "id": 140,
+    "question": "Which HTML5 element is used to draw graphics on a web page?",
+    "array": ["<graphics>", "<draw>", "<canvas>", "<svg>"],
+    "answer": "<canvas>",
+    "difficulty": "medium",
+    "category": "HTML"
+  },
+  {
+      "id": 141,
+      "question": "Which CSS property is used to control the text alignment?",
+      "array": ["text-align", "align-text", "text-position", "align"],
+      "answer": "text-align",
+      "difficulty": "easy",
+      "category": "CSS"
+  },
+  {
+      "id": 142,
+      "question": "Which CSS property is used to specify the space between lines?",
+      "array": ["line-height", "line-spacing", "text-height", "spacing"],
+      "answer": "line-height",
+      "difficulty": "medium",
+      "category": "CSS"
+  },
+  {
+      "id": 143,
+      "question": "Which CSS property is used to add shadow to an element?",
+      "array": ["box-shadow", "shadow", "element-shadow", "shadow-box"],
+      "answer": "box-shadow",
+      "difficulty": "medium",
+      "category": "CSS"
+  },
+  {
+      "id": 144,
+      "question": "Which CSS property is used to make an element transparent?",
+      "array": ["opacity", "transparency", "visibility", "alpha"],
+      "answer": "opacity",
+      "difficulty": "medium",
+      "category": "CSS"
+  },
+  {
+      "id": 145,
+      "question": "What is the output of `[1, 2, 3].map(num => num * 2)`?",
+      "array": ["[2, 4, 6]", "[1, 2, 3]", "[2, 2, 2]", "[6, 6, 6]"],
+      "answer": "[2, 4, 6]",
+      "difficulty": "medium",
+      "category": "JS"
+  },
+  {
+      "id": 146,
+      "question": "What is the purpose of the `addEventListener()` method in JavaScript?",
+      "array": ["To add a class to an element", "To add an event handler to an element", "To add an element to the DOM", "To add a style to an element"],
+      "answer": "To add an event handler to an element",
+      "difficulty": "medium",
+      "category": "JS"
+  },
+  {
+      "id": 147,
+      "question": "What will be the output of `1 + '1'` in JavaScript?",
+      "array": ["2", "11", "Error", "undefined"],
+      "answer": "11",
+      "difficulty": "easy",
+      "category": "JS"
+  },
+  {
+      "id": 148,
+      "question": "Which array method adds new elements to the end of an array and returns the new length of the array?",
+      "array": ["push()", "append()", "concat()", "join()"],
+      "answer": "push()",
+      "difficulty": "easy",
+      "category": "JS"
+  },
+  {
+    "id": 149,
+    "question": "What is the purpose of the `useContext` hook in React?",
+    "array": [
+      "To manage local state",
+      "To perform side effects",
+      "To share state between components without using props",
+      "To define component lifecycle methods"
+    ],
+    "answer": "To share state between components without using props",
+    "difficulty": "medium",
+    "category": "React"
+  },
+  {
+    "id": 150,
+    "question": "Which React component is responsible for rendering content to the DOM?",
+    "array": [
+      "ReactDOM.render()",
+      "App.render()",
+      "Component.render()",
+      "render()"
+    ],
+    "answer": "ReactDOM.render()",
+    "difficulty": "medium",
+    "category": "React"
+  },
+  {
+    "id": 151,
+    "question": "What is the purpose of the `StrictMode` component in React?",
+    "array": [
+      "To enforce strong typing",
+      "To enable strict mode in JavaScript",
+      "To highlight potential problems in an application during development",
+      "To optimize performance"
+    ],
+    "answer": "To highlight potential problems in an application during development",
+    "difficulty": "medium",
+    "category": "React"
+  },
+  {
+    "id": 152,
+    "question": "What is the output of `console.log(null == undefined)` in JavaScript?",
+    "array": [
+      "true",
+      "false",
+      "Error",
+      "undefined"
+    ],
+    "answer": "true",
+    "difficulty": "medium",
+    "category": "JS"
+  },
+  {
+    "id": 153,
+    "question": "Which HTML tag is used to define an internal CSS stylesheet?",
+    "array": ["<style>", "<css>", "<link>", "<stylesheet>"],
+    "answer": "<style>",
+    "difficulty": "medium",
+    "category": "HTML"
+  },
+  {
+    "id": 154,
+    "question": "Which HTML tag is used to create a form?",
+    "array": ["<form>", "<input>", "<form-group>", "<formarea>"],
+    "answer": "<form>",
+    "difficulty": "easy",
+    "category": "HTML"
+  },
+  {
+    "id": 155,
+    "question": "Which input type is used for a dropdown list?",
+    "array": ["<select>", "<dropdown>", "<list>", "<options>"],
+    "answer": "<select>",
+    "difficulty": "medium",
+    "category": "HTML"
+  },
+  {
+    "id": 156,
+    "question": "Which attribute specifies the URL of the page the link goes to?",
+    "array": ["href", "url", "link", "src"],
+    "answer": "href",
+    "difficulty": "easy",
+    "category": "HTML"
+  },
+  {
+    "id": 157,
+    "question": "Which tag is used to define a section in an HTML document?",
+    "array": ["<div>", "<section>", "<article>", "<group>"],
+    "answer": "<section>",
+    "difficulty": "medium",
+    "category": "HTML"
+  },
+  {
+    "id": 158,
+    "question": "What is the purpose of the <aside> element in HTML5?",
+    "array": ["Defines the main content", "Defines content aside from the page content", "Defines a navigation section", "Defines a footer"],
+    "answer": "Defines content aside from the page content",
+    "difficulty": "medium",
+    "category": "HTML"
+  },
+  {
+    "id": 159,
+    "question": "Which HTML5 element is used to represent self-contained content?",
+    "array": ["<section>", "<article>", "<div>", "<content>"],
+    "answer": "<article>",
+    "difficulty": "medium",
+    "category": "HTML"
+  },
+  {
+    "id": 160,
+    "question": "What is the purpose of the <figcaption> element?",
+    "array": ["Defines a figure", "Defines a caption for a <figure> element", "Defines a section", "Defines a caption for an image"],
+    "answer": "Defines a caption for a <figure> element",
+    "difficulty": "medium",
+    "category": "HTML"
+  },
+  {
+    "id": 161,
+    "question": "Which attribute is used to specify an alternate text for an image?",
+    "array": ["alt", "title", "text", "description"],
+    "answer": "alt",
+    "difficulty": "easy",
+    "category": "HTML"
+  },
+  {
+    "id": 162,
+    "question": "Which HTML element is used to embed audio content?",
+    "array": ["<audio>", "<sound>", "<embed-audio>", "<media>"],
+    "answer": "<audio>",
+    "difficulty": "medium",
+    "category": "HTML"
+  },
+  {
+    "id": 163,
+    "question": "Which CSS property is used to change the font size of text?",
+    "array": ["font-size", "text-size", "size", "font"],
+    "answer": "font-size",
+    "difficulty": "easy",
+    "category": "CSS"
+  },
+  {
+    "id": 164,
+    "question": "Which CSS property is used to add space between characters?",
+    "array": ["letter-spacing", "word-spacing", "char-spacing", "text-spacing"],
+    "answer": "letter-spacing",
+    "difficulty": "medium",
+    "category": "CSS"
+  },
+  {
+    "id": 165,
+    "question": "Which CSS property is used to control the boldness of text?",
+    "array": ["font-weight", "text-weight", "boldness", "weight"],
+    "answer": "font-weight",
+    "difficulty": "easy",
+    "category": "CSS"
+  },
+  {
+    "id": 166,
+    "question": "Which CSS property is used to align text horizontally?",
+    "array": ["text-align", "align-text", "horizontal-align", "align"],
+    "answer": "text-align",
+    "difficulty": "easy",
+    "category": "CSS"
+  },
+  {
+    "id": 167,
+    "question": "Which CSS property adds a border around an element?",
+    "array": ["border", "outline", "edge", "frame"],
+    "answer": "border",
+    "difficulty": "easy",
+    "category": "CSS"
+  },
+  {
+    "id": 168,
+    "question": "Which CSS property is used to control the spacing inside an element?",
+    "array": ["padding", "margin", "space", "inner-space"],
+    "answer": "padding",
+    "difficulty": "easy",
+    "category": "CSS"
+  },
+  {
+    "id": 169,
+    "question": "Which CSS property is used to control the spacing outside an element?",
+    "array": ["margin", "padding", "space", "outer-space"],
+    "answer": "margin",
+    "difficulty": "easy",
+    "category": "CSS"
+  },
+  {
+    "id": 170,
+    "question": "Which CSS property is used to change the font of an element?",
+    "array": ["font-family", "text-font", "font", "family"],
+    "answer": "font-family",
+    "difficulty": "easy",
+    "category": "CSS"
+  },
+  {
+    "id": 171,
+    "question": "Which CSS property is used to make text italic?",
+    "array": ["font-style", "text-style", "italic", "style"],
+    "answer": "font-style",
+    "difficulty": "easy",
+    "category": "CSS"
+  },
+  {
+    "id": 172,
+    "question": "Which CSS property is used to control the visibility of an element?",
+    "array": ["visibility", "display", "hidden", "show"],
+    "answer": "visibility",
+    "difficulty": "medium",
+    "category": "CSS"
+  },
+  {
+    "id": 173,
+    "question": "Which CSS property is used to position an element?",
+    "array": ["position", "float", "align", "place"],
+    "answer": "position",
+    "difficulty": "medium",
+    "category": "CSS"
+  },
+  {
+    "id": 174,
+    "question": "Which value of the 'display' property hides an element completely?",
+    "array": ["none", "hidden", "invisible", "collapse"],
+    "answer": "none",
+    "difficulty": "medium",
+    "category": "CSS"
+  },
+  {
+    "id": 175,
+    "question": "Which CSS property is used to control the flow of text around an element?",
+    "array": ["float", "text-flow", "wrap", "around"],
+    "answer": "float",
+    "difficulty": "medium",
+    "category": "CSS"
+  },
+  {
+    "id": 176,
+    "question": "Which CSS property is used to add a background image to an element?",
+    "array": ["background-image", "image-background", "bg-image", "background-url"],
+    "answer": "background-image",
+    "difficulty": "medium",
+    "category": "CSS"
+  },
+  {
+    "id": 177,
+    "question": "Which CSS property is used to repeat a background image?",
+    "array": ["background-repeat", "repeat-background", "bg-repeat", "repeat"],
+    "answer": "background-repeat",
+    "difficulty": "medium",
+    "category": "CSS"
+  },
+  {
+    "id": 178,
+    "question": "Which CSS property is used to create a gradient?",
+    "array": ["background-gradient", "gradient", "linear-gradient", "bg-gradient"],
+    "answer": "linear-gradient",
+    "difficulty": "medium",
+    "category": "CSS"
+  },
+  {
+    "id": 179,
+    "question": "Which CSS property is used to control the size of the background image?",
+    "array": ["background-size", "image-size", "bg-size", "size-background"],
+    "answer": "background-size",
+    "difficulty": "medium",
+    "category": "CSS"
+  },
+  {
+    "id": 180,
+    "question": "Which CSS property is used to position the background image?",
+    "array": ["background-position", "image-position", "bg-position", "position-background"],
+    "answer": "background-position",
+    "difficulty": "medium",
+    "category": "CSS"
+  },
+  {
+    "id": 181,
+    "question": "What is the `typeof` operator used for in JavaScript?",
+    "array": ["To check if a variable is defined", "To get the data type of a value", "To create a new variable", "To delete a variable"],
+    "answer": "To get the data type of a value",
+    "difficulty": "medium",
+    "category": "JS"
+  },
+  {
+    "id": 182,
+    "question": "Which JavaScript method is used to find the index of the first occurrence of a specified value in a string?",
+    "array": ["indexOf()", "search()", "find()", "position()"],
+    "answer": "indexOf()",
+    "difficulty": "medium",
+    "category": "JS"
+  },
+  {
+    "id": 183,
+    "question": "Which JavaScript method is used to replace a specified value with another value in a string?",
+    "array": ["replace()", "change()", "modify()", "update()"],
+    "answer": "replace()",
+    "difficulty": "medium",
+    "category": "JS"
+  },
+  {
+    "id": 184,
+    "question": "Which JavaScript method is used to convert a string to uppercase letters?",
+    "array": ["toUpperCase()", "upperCase()", "toUpper()", "upper()"],
+    "answer": "toUpperCase()",
+    "difficulty": "easy",
+    "category": "JS"
+  },
+  {
+    "id": 185,
+    "question": "Which JavaScript method is used to convert a string to lowercase letters?",
+    "array": ["toLowerCase()", "lowerCase()", "toLower()", "lower()"],
+    "answer": "toLowerCase()",
+    "difficulty": "easy",
+    "category": "JS"
+  },
+  {
+    "id": 186,
+    "question": "Which JavaScript method is used to extract a part of a string?",
+    "array": ["slice()", "substring()", "substr()", "extract()"],
+    "answer": "slice()",
+    "difficulty": "medium",
+    "category": "JS"
+  },
+  {
+    "id": 187,
+    "question": "Which JavaScript method is used to join two or more arrays?",
+    "array": ["concat()", "join()", "merge()", "combine()"],
+    "answer": "concat()",
+    "difficulty": "medium",
+    "category": "JS"
+  },
+  {
+    "id": 188,
+    "question": "Which JavaScript method is used to sort the elements of an array?",
+    "array": ["sort()", "order()", "arrange()", "sorted()"],
+    "answer": "sort()",
+    "difficulty": "medium",
+    "category": "JS"
+  },
+  {
+    "id": 189,
+    "question": "Which JavaScript method is used to reverse the order of the elements in an array?",
+    "array": ["reverse()", "invert()", "flip()", "order()"],
+    "answer": "reverse()",
+    "difficulty": "medium",
+    "category": "JS"
+  },
+  {
+    "id": 190,
+    "question": "Which JavaScript method is used to remove the first element from an array and returns that element?",
+    "array": ["shift()", "unshift()", "pop()", "splice()"],
+    "answer": "shift()",
+    "difficulty": "medium",
+    "category": "JS"
+  },
+  {
+    "id": 191,
+    "question": "Which JavaScript method is used to add one or more elements to the beginning of an array and returns the new length of the array?",
+    "array": ["unshift()", "shift()", "push()", "splice()"],
+    "answer": "unshift()",
+    "difficulty": "medium",
+    "category": "JS"
+  },
+  {
+    "id": 192,
+    "question": "What is the purpose of the `querySelector()` method?",
+    "array": [
+      "Selects the first element that matches a CSS selector",
+      "Selects all elements that match a CSS selector",
+      "Selects an element by its ID",
+      "Selects an element by its class"
+    ],
+    "answer": "Selects the first element that matches a CSS selector",
+    "difficulty": "medium",
+    "category": "JS"
+  },
+  {
+    "id": 193,
+    "question": "What is the purpose of the `querySelectorAll()` method?",
+    "array": [
+      "Selects the first element that matches a CSS selector",
+      "Selects all elements that match a CSS selector",
+      "Selects an element by its ID",
+      "Selects an element by its class"
+    ],
+    "answer": "Selects all elements that match a CSS selector",
+    "difficulty": "medium",
+    "category": "JS"
+  },
+  {
+    "id": 194,
+    "question": "What is the purpose of the `getElementById()` method?",
+    "array": [
+      "Selects the first element that matches a CSS selector",
+      "Selects all elements that match a CSS selector",
+      "Selects an element by its ID",
+      "Selects an element by its class"
+    ],
+    "answer": "Selects an element by its ID",
+    "difficulty": "easy",
+    "category": "JS"
+  },
+  {
+    "id": 195,
+    "question": "What is the purpose of the `getElementsByClassName()` method?",
+    "array": [
+      "Selects the first element that matches a CSS selector",
+      "Selects all elements that match a CSS selector",
+      "Selects an element by its ID",
+      "Selects all elements that match a class name"
+    ],
+    "answer": "Selects all elements that match a class name",
+    "difficulty": "easy",
+    "category": "JS"
+  },
+  {
+    "id": 196,
+    "question": "What is the purpose of the `addEventListener()` method?",
+    "array": [
+      "Adds a new element to the DOM",
+      "Adds a style to an element",
+      "Attaches an event handler to an element",
+      "Removes an element from the DOM"
+    ],
+    "answer": "Attaches an event handler to an element",
+    "difficulty": "medium",
+    "category": "JS"
+  },
+  {
+    "id": 197,
+    "question": "What is the purpose of the `removeEventListener()` method?",
+    "array": [
+      "Adds a new element to the DOM",
+      "Adds a style to an element",
+      "Removes an event handler from an element",
+      "Removes an element from the DOM"
+    ],
+    "answer": "Removes an event handler from an element",
+    "difficulty": "medium",
+    "category": "JS"
+  },
+  {
+    "id": 198,
+    "question": "What is the purpose of the `createElement()` method?",
+    "array": [
+      "Creates a new HTML element",
+      "Creates a new CSS style",
+      "Creates a new JavaScript function",
+      "Creates a new event listener"
+    ],
+    "answer": "Creates a new HTML element",
+    "difficulty": "medium",
+    "category": "JS"
+  },
+  {
+    "id": 199,
+    "question": "What is the purpose of the `appendChild()` method?",
+    "array": [
+      "Adds a new element to the beginning of a parent element",
+      "Adds a new element to the end of a parent element",
+      "Replaces a child element with a new element",
+      "Removes a child element from a parent element"
+    ],
+    "answer": "Adds a new element to the end of a parent element",
+    "difficulty": "medium",
+    "category": "JS"
+  },
+  {
+    "id": 200,
+    "question": "What is the purpose of the `removeChild()` method?",
+    "array": [
+      "Adds a new element to the beginning of a parent element",
+      "Adds a new element to the end of a parent element",
+      "Replaces a child element with a new element",
+      "Removes a child element from a parent element"
+    ],
+    "answer": "Removes a child element from a parent element",
+    "difficulty": "medium",
+    "category": "JS"
+  },
+  {
+    "id": 201,
+    "question": "What is the purpose of the `replaceChild()` method?",
+    "array": [
+      "Adds a new element to the beginning of a parent element",
+      "Adds a new element to the end of a parent element",
+      "Replaces a child element with a new element",
+      "Removes a child element from a parent element"
+    ],
+    "answer": "Replaces a child element with a new element",
+    "difficulty": "medium",
+    "category": "JS"
+  },
+  {
+      "id": 202,
+      "question": "Which React hook is used for managing side effects?",
+      "array": ["useState()", "useEffect()", "useContext()", "useReducer()"],
+      "answer": "useEffect()",
+      "difficulty": "medium",
+      "category": "React"
+  },
+  {
+      "id": 203,
+      "question": "What is the purpose of the `useState` hook?",
+      "array": ["To manage state in functional components", "To perform side effects", "To optimize performance", "To access the DOM"],
+      "answer": "To manage state in functional components",
+      "difficulty": "medium",
+      "category": "React"
+  },
+  {
+      "id": 204,
+      "question": "What is the role of the `props` object in React?",
+      "array": ["To manage component state", "To define component styles", "To pass data from parent to child components", "To handle events"],
+      "answer": "To pass data from parent to child components",
+      "difficulty": "easy",
+      "category": "React"
+  },
+  {
+      "id": 205,
+      "question": "What is a React component?",
+      "array": ["A CSS stylesheet", "A JavaScript function", "A reusable UI building block", "An HTML element"],
+      "answer": "A reusable UI building block",
+      "difficulty": "easy",
+      "category": "React"
+  },
+  {
+        "id": 206,
+        "question": "What is the primary purpose of the `render()` method in a React component?",
+        "array": [
+            "To define the component's state.",
+            "To specify the component's behavior.",
+            "To return the JSX that should be displayed in the UI.",
+            "To handle user events."
+        ],
+        "answer": "To return the JSX that should be displayed in the UI.",
+        "difficulty": "easy",
+        "category": "React"
+    },
+    {
+        "id": 207,
+        "question": "In React, what is the role of `state`?",
+        "array": [
+            "To store data that remains constant throughout the component's lifecycle.",
+            "To manage data that can change over time, triggering component re-renders.",
+            "To define the visual appearance of the component.",
+            "To pass data from parent to child components."
+        ],
+        "answer": "To manage data that can change over time, triggering component re-renders.",
+        "difficulty": "medium",
+        "category": "React"
+    },
+    {
+        "id": 208,
+        "question": "What is JSX in React?",
+        "array": [
+            "A templating engine for JavaScript.",
+            "A syntax extension that allows writing HTML-like code in JavaScript.",
+            "A library for managing component state.",
+            "A tool for styling React components."
+        ],
+        "answer": "A syntax extension that allows writing HTML-like code in JavaScript.",
+        "difficulty": "medium",
+        "category": "React"
+    },
+    {
+        "id": 209,
+        "question": "What is the significance of the Virtual DOM in React?",
+        "array": [
+            "It is a virtual reality representation of the user interface.",
+            "It is a lightweight copy of the actual DOM, used to optimize updates.",
+            "It is a browser API for managing the DOM.",
+            "It is a server-side technology for rendering React components."
+        ],
+        "answer": "It is a lightweight copy of the actual DOM, used to optimize updates.",
+        "difficulty": "medium",
+        "category": "React"
+    },
+    {
+        "id": 210,
+        "question": "How do you update the state of a component in React?",
+        "array": [
+            "By directly modifying the state object.",
+            "By using the `setState()` method or the state updater function from `useState()`.",
+            "By dispatching an event.",
+            "By calling the `render()` method."
+        ],
+        "answer": "By using the `setState()` method or the state updater function from `useState()`.",
+        "difficulty": "easy",
+        "category": "React"
+    },
+    {
+        "id": 211,
+        "question": "What is the purpose of the `useEffect` hook in React?",
+        "array": [
+            "To manage component state.",
+            "To perform side effects like data fetching, subscriptions, or DOM manipulation.",
+            "To define the component's initial render.",
+            "To handle user events."
+        ],
+        "answer": "To perform side effects like data fetching, subscriptions, or DOM manipulation.",
+        "difficulty": "medium",
+        "category": "React"
+    },
+    {
+        "id": 212,
+        "question": "What are Higher Order Components (HOCs) in React?",
+        "array": [
+            "Components that are used to style other components.",
+            "Functions that take a component and return a new component with added functionality.",
+            "Components that manage the application's state.",
+            "Components that render other components."
+        ],
+        "answer": "Functions that take a component and return a new component with added functionality.",
+        "difficulty": "medium",
+        "category": "React"
+    },
+    {
+        "id": 213,
+        "question": "What are React Hooks?",
+        "array": [
+            "Functions that connect to external APIs.",
+            "Functions that allow using state and other React features in functional components.",
+            "Functions that are used to style components.",
+            "Functions that handle events in React."
+        ],
+        "answer": "Functions that allow using state and other React features in functional components.",
+        "difficulty": "medium",
+        "category": "React"
+    },
+    {
+        "id": 214,
+        "question": "What is the purpose of the `useContext` hook?",
+        "array": [
+            "To manage local state within a component.",
+            "To perform asynchronous operations.",
+            "To share state between components without passing props manually.",
+            "To define the component's lifecycle."
+        ],
+        "answer": "To share state between components without passing props manually.",
+        "difficulty": "medium",
+        "category": "React"
+    },
+    {
+        "id": 215,
+        "question": "What is the purpose of the `useReducer` hook?",
+        "array": [
+            "To manage simple state values.",
+            "To manage complex state logic, similar to Redux.",
+            "To perform side effects.",
+            "To optimize component performance."
+        ],
+        "answer": "To manage complex state logic, similar to Redux.",
+        "difficulty": "hard",
+        "category": "React"
+    },
+    {
+        "id": 216,
+        "question": "Whatis the difference between `useEffect` and `useLayoutEffect`?",
+        "array": [
+            "There is no difference; they are aliases.",
+            "`useEffect` runs synchronously, while `useLayoutEffect` runs asynchronously.",
+            "`useLayoutEffect` runs synchronously, before the browser paints, while `useEffect` runs asynchronously.",
+            "`useEffect` is used for layout effects, and `useLayoutEffect` is used for side effects."
+        ],
+        "answer": "`useLayoutEffect` runs synchronously, before the browser paints, while `useEffect` runs asynchronously.",
+        "difficulty": "hard",
+        "category": "React"
+    },
+    {
+        "id": 217,
+        "question": "What does `React.memo` do?",
+        "array": [
+            "It is used to memoize state variables.",
+            "It is used to memoize function calls.",
+            "It is used to memoize components, preventing unnecessary re-renders.",
+            "It is used to memoize event handlers."
+        ],
+        "answer": "It is used to memoize components, preventing unnecessary re-renders.",
+        "difficulty": "hard",
+        "category": "React"
+    },
+    {
+        "id": 218,
+        "question": "What is the purpose of the `useCallback` hook?",
+        "array": [
+            "To memoize state variables.",
+            "To memoize function calls, preventing unnecessary re-creations.",
+            "To memoize components.",
+            "To memoize event handlers."
+        ],
+        "answer": "To memoize function calls, preventing unnecessary re-creations.",
+        "difficulty": "hard",
+        "category": "React"
+    },
+    {
+        "id": 219,
+        "question": "What is the primary use case for the `useRef` hook?",
+        "array": [
+            "To manage the component's state.",
+            "To perform side effects in functional components.",
+            "To create a reference that persists across renders, often used to access DOM elements.",
+            "To optimize component rendering."
+        ],
+        "answer": "To create a reference that persists across renders, often used to access DOM elements.",
+        "difficulty": "medium",
+        "category": "React"
+    },
+    {
+        "id": 220,
+        "question": "What is the `children` prop in React?",
+        "array": [
+            "A prop used to pass data to a component.",
+            "A prop used to define the visual style of a component.",
+            "A prop used to render a list of components.",
+            "A prop that represents the content nested inside a component."
+        ],
+        "answer": "A prop that represents the content nested inside a component.",
+        "difficulty": "medium",
+        "category": "React"
+    }
+]
+
