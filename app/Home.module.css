@@ -34,10 +34,7 @@
 }
 
 .btn{
-    position: absolute;
-    top: 85%;
-    transform: translateX(40rem);
-    width: 30%;
+    transform: translateX(7.5%) translateY(-120px);
 }
 
 @-webkit-keyframes text-pop-up-bottom {

@@ -1,16 +1,26 @@
-'use client'
+'use client';
 
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import styled from 'styled-components';
 import Link from 'next/link';
 
 const Button = ({ href, text }) => {
+  const [mounted, setMounted] = useState(false);
+
+  useEffect(() => {
+    // Ensures the component only renders on the client
+    setMounted(true);
+  }, []);
+
+  if (!mounted) return null;
+
+  const isPlayNow = text === 'Play Now';
+
   return (
     <StyledWrapper>
       <Link href={href}>
-        <button className="button-with-icon">
-
-          {text === "Play Now" ? (
+        <button className="button-with-icon" type="button">
+          {isPlayNow ? (
             <svg className="icon" id="Play" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
               <path className="color000000 svgShape" fill="#ffffff" d="M12 39c-.549 0-1.095-.15-1.578-.447A3.008 3.008 0 0 1 9 36V12c0-1.041.54-2.007 1.422-2.553a3.014 3.014 0 0 1 2.919-.132l24 12a3.003 3.003 0 0 1 0 5.37l-24 12c-.42.21-.885.315-1.341.315z" />
             </svg>
@@ -20,12 +30,11 @@ const Button = ({ href, text }) => {
             </svg>
           )}
           <span className="text">{text}</span>
-
         </button>
       </Link>
     </StyledWrapper>
   );
-}
+};
 
 const StyledWrapper = styled.div`
   .button-with-icon {
@@ -37,7 +46,6 @@ const StyledWrapper = styled.div`
     font-family: "Istok Web", sans-serif;
     letter-spacing: 1px;
     padding: 0 12px;
-    text-align: center;
     width: 150px;
     height: 40px;
     font-size: 14px;
@@ -47,12 +55,11 @@ const StyledWrapper = styled.div`
     outline: none;
     user-select: none;
     cursor: pointer;
-    transform: translateY(0px);
     position: relative;
+    transform: translateY(0px);
     box-shadow:
       inset 0 30px 30px -15px rgba(255, 255, 255, 0.1),
       inset 0 0 0 1px rgba(255, 255, 255, 0.3),
-      inset 0 1px 20px rgba(0, 0, 0, 0),
       0 3px 0 #fcd12a,
       0 3px 2px rgba(0, 0, 0, 0.2),
       0 5px 10px rgba(0, 0, 0, 0.1),
@@ -75,23 +82,21 @@ const StyledWrapper = styled.div`
     box-shadow:
       inset 0 16px 2px -15px rgba(0, 0, 0, 0),
       inset 0 0 0 1px rgba(255, 255, 255, 0.15),
-      inset 0 1px 20px rgba(0, 0, 0, 0.1),
       0 0 0 #fcd12a,
-      0 0 0 2px rgba(255, 255, 255, 0.5),
-      0 0 0 rgba(0, 0, 0, 0),
-      0 0 0 rgba(0, 0, 0, 0);
+      0 0 0 2px rgba(255, 255, 255, 0.5);
   }
 
   .button-with-icon:hover .text {
     transform: translateX(100px);
   }
+
   .button-with-icon:hover .icon {
     transform: translate(43px);
   }
 
-  
   .text {
     transition: all 0.5s ease-in-out;
-  }`;
+  }
+`;
 
 export default Button;
