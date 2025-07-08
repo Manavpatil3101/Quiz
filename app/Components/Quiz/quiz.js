@@ -96,8 +96,8 @@ const QuizClient = ({ category, questions }) => {
           <div>
             <QuizTitle qtitle={category} />
           </div>
-          <h2>
-            <span style={{ color: "darkgray" }}>Level: </span>
+          <h2 className={classes.lvl}>
+            <span  style={{ color: "darkgray" }}>Level: </span>
             <span style={{ color: "#fcd12a", textTransform: "capitalize" }}>
               {currentQuestion.difficulty}
             </span>

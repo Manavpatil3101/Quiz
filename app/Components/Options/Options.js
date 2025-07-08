@@ -77,6 +77,15 @@ const StyledWrapper = styled.div`
     width: 120%;
   }
 
+  @media (max-width: 576px){
+    button::before{
+        width: 220%;
+    }
+    span{
+    font-size: 20px;
+    }
+}
+
   button:hover {
     color: ${({ status }) =>
       status === "correct" || status === "incorrect" ? "#000" : "#fff"};

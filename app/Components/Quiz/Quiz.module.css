@@ -20,3 +20,13 @@
     color: gray;
 }
 
+
+
+@media (max-width: 576px){
+    .lvl{
+        font-size: 10px;
+    }
+    .questions{
+        font-size: 20px;
+    }
+}
