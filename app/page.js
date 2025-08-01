@@ -6,7 +6,7 @@ import Button from "./Components/GS_Button/button";
 
 export default function Home() {
   return (
-    <Container fluid className="overflow-x-hidden">
+    <Container fluid className={`overflow-x-hidden ${classes.body}`}>
       <Row>
         <div className={`d-block d-lg-none w-100`}>
           <video autoPlay loop muted width="100%">

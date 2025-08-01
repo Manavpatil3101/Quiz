@@ -54,8 +54,8 @@ const Result = ({ correct, wrong, score }) => {
     <Container style={{ width: "100%", height: "320px" }}>
       <h2 className={classes.score}>All Time Scores</h2>
 
-      <Row style={{marginLeft: "25%", marginTop: "30px"}}>
-        <Box  sx={{ height: 400, width: '67%' }}>
+      <Row style={{ marginTop: "30px"}}>
+        <Box  sx={{ height: 400, width: '100%' }}>
           <DataGrid
             rows={rows}
             columns={columns}

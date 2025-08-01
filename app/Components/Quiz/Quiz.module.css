@@ -24,7 +24,7 @@
 
 @media (max-width: 576px){
     .lvl{
-        font-size: 10px;
+        font-size: 20px !important;
     }
     .questions{
         font-size: 20px;

@@ -93,6 +93,11 @@
 
   
 @media (max-width: 575px) {
+
+  .body{
+    height: 750px !important;
+  }
+
   .txt {
     font-size: 32px;
     width: 90%;
@@ -116,8 +121,8 @@
   .btn {
     position: relative;
     left: -1%;
-    transform: translateY(2px);
-    margin-top: 1.5rem;
+    transform: translateY(10px) !important;
+    margin-top: 5rem;
     text-align: center;
     overflow-x: hidden !important;
   }

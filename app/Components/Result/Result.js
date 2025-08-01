@@ -86,8 +86,8 @@ const Result = ({ correct, wrong, score }) => {
           </Link>
         </div>
       </div>
-      <Row style={{marginLeft: "22%", marginTop: "50px"}}>
-        <Box  sx={{ height: 400, width: '70%' }}>
+      <Row style={{marginBottom: "40px", marginTop: "50px"}}>
+        <Box  sx={{ height: 400, width: '100%' }}>
           <DataGrid
             rows={rows}
             columns={columns}
